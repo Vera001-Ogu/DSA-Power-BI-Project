@@ -19,3 +19,12 @@ In the intial phase of the Data Cleaning and preparations, I performed the follo
      1. Data Loading and Inspection
      2. Handling missing varibles
      3. Creation of custom column
+     4. Data Cleaning and Formatting
+
+### This project helped me to explore:
+    - Gender distribution in the organization
+    - Analyse the company's salary structure
+    - Insights on ratings based on gender
+
+### KPI
+  - 
