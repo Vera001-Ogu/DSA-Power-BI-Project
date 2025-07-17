@@ -27,4 +27,8 @@ In the intial phase of the Data Cleaning and preparations, I performed the follo
     - Insights on ratings based on gender
 
 ### KPI
-  - 
+  - Analyzed salary bands and bonus allocationa across three regions
+  - Total annual bonus = $2.199million
+  - Total annual salary = $70million
+  - Each region was paid the same amount
+   
